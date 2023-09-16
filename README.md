@@ -1,6 +1,10 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). and works with fake api.
+![s1](https://github.com/razieshahbazi/Shopping/assets/109855825/0973935b-f07e-4048-890f-50746e62ce03)
+![s2](https://github.com/razieshahbazi/Shopping/assets/109855825/6080d0f0-bad0-493a-b04d-f7aa168165de)
+![s3](https://github.com/razieshahbazi/Shopping/assets/109855825/75c5afab-4780-40b4-9429-1c9f53661938)
+
 
 ## Available Scripts
 
