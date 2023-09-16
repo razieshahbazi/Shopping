@@ -4,6 +4,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ![s1](https://github.com/razieshahbazi/Shopping/assets/109855825/0973935b-f07e-4048-890f-50746e62ce03)
 ![s2](https://github.com/razieshahbazi/Shopping/assets/109855825/6080d0f0-bad0-493a-b04d-f7aa168165de)
 ![s3](https://github.com/razieshahbazi/Shopping/assets/109855825/75c5afab-4780-40b4-9429-1c9f53661938)
+![s4](https://github.com/razieshahbazi/Shopping/assets/109855825/7b970a58-24b9-4455-8b27-3786e3a5bfe9)
+![s5](https://github.com/razieshahbazi/Shopping/assets/109855825/122bac7b-ce89-46b0-9b3c-a061ca63acf9)
+![s6](https://github.com/razieshahbazi/Shopping/assets/109855825/73e52602-2ac8-4742-bdf6-9f9606b9026b)
 
 
 ## Available Scripts
